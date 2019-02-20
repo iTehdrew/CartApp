@@ -1,0 +1,21 @@
+[{
+        "product": {
+            "id": 12467534,
+            "title": "Prestigio Smartbook 116A03 (PSB116A03BFW_MB_CIS) Black Суперцена!!! + Microsoft OneDrive 100 ГБ",
+            "price": "3999",
+            "old_price": null,
+            "image": "http://i2.rozetka.ua/goods/1783532/"
+        },
+        "quantity": 1
+    },
+    {
+       "product": {
+            "id": 17929266,
+            "title": "Apple A1466 MacBook Air 13\" (MQD32UA/A)",
+            "price": "27499",
+            "old_price": "27999",
+            "image": "http://i1.rozetka.ua/goods/2039361/copy_apple_macbook_air_13_z0tb000jc_593804497bad1_images_2039361414.jpg"
+       },
+       "quantity": 3
+    }
+]

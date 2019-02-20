@@ -1,0 +1,8 @@
+"cart_title" = "Cart";
+"cart_checkout_button" = "Checkout";
+"cart_total_label" = "Total";
+"cart_products_worth_label" = "%@ products worth";
+"cart_empty_label" = "Empty cart";
+
+"details_title" = "Congratulations";
+"details_description" = "You place an order: \n%@";
